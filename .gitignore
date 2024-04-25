@@ -1,0 +1,192 @@
+# Csharp_DOTNET
+.vs/
+
+# AcademySln
+AcademySln/.vs/
+AcademySln/Academy/bin/
+AcademySln/Academy/obj/
+
+# Calculadora
+Calculadora/.vs/
+Calculadora/Calculadora/bin/
+Calculadora/Calculadora/obj/
+
+# CalculoIMC
+CalculoIMC/.vs/
+CalculoIMC/CalculoIMC/bin/
+CalculoIMC/CalculoIMC/obj/
+
+# Ciclos
+Ciclos/.vs/
+Ciclos/Ciclos/bin/
+Ciclos/Ciclos/obj/
+
+# ClassesImport
+ClassesImport/.vs/
+ClassesImport/ClassesImport/bin/
+ClassesImport/ClassesImport/obj/
+
+# Colecao
+Colecao/.vs/
+Colecao/Colecao/bin/
+Colecao/Colecao/obj/
+
+# Colecoes
+Colecoes/.vs/
+Colecoes/Colecoes/bin/
+Colecoes/Colecoes/obj/
+
+# Condicao
+Condicao/.vs/
+Condicao/Condicao/bin/
+Condicao/Condicao/obj/
+
+# Controle
+Controle/.vs/
+Controle/Controle/bin/
+Controle/Controle/obj/
+
+# Conversao
+Conversao/.vs/
+Conversao/.vscode/
+Conversao/Conversao/bin/
+Conversao/Conversao/obj/
+
+# ConversorTemperatura
+ConversorTemperatura/.vs/
+ConversorTemperatura/.vscode/
+ConversorTemperatura/ConversorTemperatura/bin/
+ConversorTemperatura/ConversorTemperatura/obj/
+
+# EntradaSaida
+EntradaSaida/.vs/
+EntradaSaida/EntradaSaida/bin/
+EntradaSaida/EntradaSaida/obj/
+
+# FatorialRecursivo
+FatorialRecursivo/.vs/
+FatorialRecursivo/FatorialRecursivo/bin/
+FatorialRecursivo/FatorialRecursivo/obj/
+
+# Fibonnaci
+Fibonnaci/.vs/
+Fibonnaci/Fibonnaci/bin/
+Fibonnaci/Fibonnaci/obj/
+
+# InverterNomes
+InverterNomes/.vs/
+InverterNomes/InverterNomes/bin/
+InverterNomes/InverterNomes/obj/
+
+# ManipularString
+ManipularString/.vs/
+ManipularString/ManipularString/bin/
+ManipularString/ManipularString/obj/
+
+# MetodoMain
+MetodoMain/.vs/
+MetodoMain/MetodoMain/bin/
+MetodoMain/MetodoMain/obj/
+
+# MultiplicarMatrizes
+MultiplicarMatrizes/.vs/
+MultiplicarMatrizes/MultiplicarMatrizes/bin/
+MultiplicarMatrizes/MultiplicarMatrizes/obj/
+
+# MySolution
+MySolution/.vs/
+MySolution/MySolution/bin/
+MySolution/MySolution/obj/
+
+# Operadores
+Operadores/.vs/
+Operadores/Operadores/bin/
+Operadores/Operadores/obj/
+
+# POO
+POO/.vs/
+
+POO/ClassesObjetos/.vs/
+POO/ClassesObjetos/bin/
+POO/ClassesObjetos/obj/
+
+POO/ConsoleApp6/.vs/
+POO/ConsoleApp6/bin/
+POO/ConsoleApp6/obj/
+
+POO/Encapsular/.vs/
+POO/Encapsular/bin/
+POO/Encapsular/obj/
+
+POO/Estatico/.vs/
+POO/Estatico/bin/
+POO/Estatico/obj/
+
+POO/Heranca/.vs/
+POO/Heranca/bin/
+POO/Heranca/obj/
+
+POO/MetodoConstrutor/.vs/
+POO/MetodoConstrutor/bin/
+POO/MetodoConstrutor/obj/
+
+POO/MetodosClasses/.vs/
+POO/MetodosClasses/bin/
+POO/MetodosClasses/obj/
+
+POO/Modificadores/.vs/
+POO/Modificadores/bin/
+POO/Modificadores/obj/
+
+POO/Polimorfismo/.vs/
+POO/Polimorfismo/bin/
+POO/Polimorfismo/obj/
+
+POO/Propiedades/.vs/
+POO/Propiedades/bin/
+POO/Propiedades/obj/
+
+POO/ThermoThis/.vs/
+POO/ThermoThis/bin/
+POO/ThermoThis/obj/
+
+POO/TipoDelegate/.vs/
+POO/TipoDelegate/bin/
+POO/TipoDelegate/obj/
+
+# PrimeiroProjeto
+PrimeiroProjeto/.vs/
+PrimeiroProjeto/.vscode/
+
+PrimeiroProjeto/FormsApp/bin/
+PrimeiroProjeto/FormsApp/obj/
+
+PrimeiroProjeto/OlaMundo/bin/
+PrimeiroProjeto/OlaMundo/obj/
+
+# Recursividade
+Recursividade/.vs/
+Recursividade/Recursividade/bin/
+Recursividade/Recursividade/obj/
+
+# TesteForms
+TesteForms/.vs/
+TesteForms/TesteForms/bin/
+TesteForms/TesteForms/obj/
+
+# TesteVSCODE
+TesteVSCODE/.vs/
+TesteVSCODE/.vscode/
+TesteVSCODE/bin/
+TesteVSCODE/obj/
+
+# Variaveis
+Variaveis/.vs/
+Variaveis/Variaveis/bin/
+Variaveis/Variaveis/obj/
+
+# webapi
+webapi/.vs/
+webapi/WebApiTeste/.vs/
+webapi/WebApiTeste/bin/
+webapi/WebApiTeste/obj/
