@@ -190,3 +190,7 @@ webapi/.vs/
 webapi/WebApiTeste/.vs/
 webapi/WebApiTeste/bin/
 webapi/WebApiTeste/obj/
+
+# ThreadConsole
+ThreadConsole/ThreadConsole/bin/
+ThreadConsole/ThreadConsole/obj/
