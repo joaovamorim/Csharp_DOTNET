@@ -194,3 +194,19 @@ webapi/WebApiTeste/obj/
 # ThreadConsole
 ThreadConsole/ThreadConsole/bin/
 ThreadConsole/ThreadConsole/obj/
+
+# ThreadForms
+ThreadForms/.vs/
+ThreadForms/ThreadForms/bin/
+ThreadForms/ThreadForms/obj/
+
+# Formulario
+Formulario/.vs/
+Formulario/Formulario/bin/
+Formulario/Formulario/obj/
+
+Formulario/FormControle/bin/
+Formulario/FormControle/obj/
+
+Formulario/FormMdi/bin/
+Formulario/FormMdi/obj/
