@@ -3,12 +3,12 @@
     partial class Form1
     {
         /// <summary>
-        ///  Required designer variable.
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        ///  Clean up any resources being used.
+        /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
@@ -23,41 +23,52 @@
         #region Windows Form Designer generated code
 
         /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
-            SuspendLayout();
+            this.btnExecutar = new System.Windows.Forms.Button();
+            this.SuspendLayout();
             // 
-            // button1
+            // btnExecutar
             // 
-            button1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            button1.BackColor = SystemColors.Control;
-            button1.Cursor = Cursors.Hand;
-            button1.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point);
-            button1.ForeColor = SystemColors.Highlight;
-            button1.Location = new Point(257, 177);
-            button1.Name = "button1";
-            button1.Size = new Size(286, 97);
-            button1.TabIndex = 0;
-            button1.Text = "Botão Teste";
-            button1.UseVisualStyleBackColor = false;
+            this.btnExecutar.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnExecutar.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.btnExecutar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.btnExecutar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnExecutar.FlatAppearance.BorderColor = System.Drawing.Color.Yellow;
+            this.btnExecutar.FlatAppearance.BorderSize = 2;
+            this.btnExecutar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnExecutar.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.btnExecutar.Font = new System.Drawing.Font("MV Boli", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnExecutar.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.btnExecutar.Location = new System.Drawing.Point(229, 169);
+            this.btnExecutar.Name = "btnExecutar";
+            this.btnExecutar.Size = new System.Drawing.Size(350, 100);
+            this.btnExecutar.TabIndex = 0;
+            this.btnExecutar.Text = "Executar";
+            this.btnExecutar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.btnExecutar.UseVisualStyleBackColor = false;
+            this.btnExecutar.Click += new System.EventHandler(this.btnExecutar_Click);
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(button1);
-            Name = "Form1";
-            Text = "Form1";
-            ResumeLayout(false);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnExecutar);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
 
-        private Button button1;
+        private System.Windows.Forms.Button btnExecutar;
     }
 }
+

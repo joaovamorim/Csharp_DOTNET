@@ -1,0 +1,10 @@
+D:\GitHub\Csharp_DOTNET\ControlesForm\Parte043\bin\Debug\Parte043.exe.config
+D:\GitHub\Csharp_DOTNET\ControlesForm\Parte043\bin\Debug\Parte043.exe
+D:\GitHub\Csharp_DOTNET\ControlesForm\Parte043\bin\Debug\Parte043.pdb
+D:\GitHub\Csharp_DOTNET\ControlesForm\Parte043\obj\Debug\Parte043.csproj.AssemblyReference.cache
+D:\GitHub\Csharp_DOTNET\ControlesForm\Parte043\obj\Debug\Parte043.Form1.resources
+D:\GitHub\Csharp_DOTNET\ControlesForm\Parte043\obj\Debug\Parte043.Properties.Resources.resources
+D:\GitHub\Csharp_DOTNET\ControlesForm\Parte043\obj\Debug\Parte043.csproj.GenerateResource.cache
+D:\GitHub\Csharp_DOTNET\ControlesForm\Parte043\obj\Debug\Parte043.csproj.CoreCompileInputs.cache
+D:\GitHub\Csharp_DOTNET\ControlesForm\Parte043\obj\Debug\Parte043.exe
+D:\GitHub\Csharp_DOTNET\ControlesForm\Parte043\obj\Debug\Parte043.pdb
