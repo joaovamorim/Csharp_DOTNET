@@ -222,3 +222,8 @@ ControlesForm/Parte002/obj/
 
 ControlesForm/Parte003/bin/
 ControlesForm/Parte003/obj/
+
+# BaseDados
+BaseDados/.vs/
+BaseDados/BaseDados/obj/
+BaseDados/BaseDados/bin/
